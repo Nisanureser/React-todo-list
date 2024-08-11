@@ -1,0 +1,22 @@
+.Todo{
+ 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    padding: 10px;
+    margin-top: 9px;
+
+
+}
+.icons{
+    width: 50px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   font-size: 20px;
+   cursor: pointer;
+   color: rgb(46, 69, 122);;
+}
